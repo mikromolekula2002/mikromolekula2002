@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mikromolekula2002
-- 👀 I’m interested in games
 - 🌱 I’m currently learning golang backend developer
-- 💞️ I’m looking to collaborate on none
-- 📫 How to reach me none
+- 📫 How to contact with me: kortymalik@gmail.com 
 
 <!---
 mikromolekula2002/mikromolekula2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
